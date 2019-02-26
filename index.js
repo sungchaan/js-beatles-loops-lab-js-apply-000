@@ -25,4 +25,5 @@ function iLoveTheBeatles(num){
       results.push('I love the Beatles!');
     } while (num < 15)
   }
+  return results;
 }
